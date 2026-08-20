@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/CloudTechDevOps/Kubernetes.git
+    repoURL: https://github.com/mustaqim-m/gha-argocd.git
     targetRevision: HEAD
     path: gha-argocd
   destination: 
